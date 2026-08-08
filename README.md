@@ -1,4 +1,12 @@
-TerraSystems
+<div align="center">
+
+<img src="assets/TerraSystems.png" alt="TerraSystems" width="700">
+
+# TerraSystems
+
+### FOR FUTURE GENERATIONS
+
+**A World Where No Child Dies from Starvation**
 
 TerraSystems develops intelligent automation solutions for modern agriculture by combining Artificial Intelligence (AI), Embedded Systems, IoT, Robotics, and Autonomous Control Technologies. Our focus is on designing smart farming platforms powered by Arduino, ESP32, Raspberry Pi, industrial microcontrollers, and custom embedded software to automate irrigation, climate control, nutrient dosing, environmental monitoring, and crop management.
 
