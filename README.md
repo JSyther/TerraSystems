@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/TerraSystems.png" alt="TerraSystems" width="700">
+<img src="./assets/TerraSystems.png" alt="TerraSystems" width="700">
+
+</div>
 
 # TerraSystems
 
