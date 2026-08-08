@@ -1,38 +1,56 @@
-<div align="center">
-
-<img src="./assets/TerraSystems.png" alt="TerraSystems" width="700">
-
 # TerraSystems
 
 ### FOR FUTURE GENERATIONS
 
 **A World Where No Child Dies from Starvation**
 
-<p>
-TerraSystems develops intelligent automation solutions for modern agriculture by combining
-Artificial Intelligence (AI), Embedded Systems, IoT, Robotics, and Autonomous Control Technologies.
-Our focus is on designing smart farming platforms powered by Arduino, ESP32, Raspberry Pi,
-industrial microcontrollers, and custom embedded software to automate irrigation, climate control,
-nutrient dosing, environmental monitoring, and crop management.
-</p>
-
-<p>
-We engineer scalable software and hardware systems using C/C++, Python, Embedded Programming,
-Computer Vision, Machine Learning, Sensor Networks, and Real-Time Automation.
-Our solutions integrate autonomous decision-making with precision agriculture to improve
-efficiency, sustainability, and crop productivity.
-</p>
-
-<p>
-TerraSystems is committed to building the next generation of intelligent agricultural technologies
-through innovation in embedded engineering, AI-driven analytics, autonomous systems, and industrial automation.
-</p>
-
-</div>
-
 ---
 
-<div align="center">
+## 🌱 About TerraSystems
+
+TerraSystems is an open-source, continuously evolving platform for intelligent agricultural automation.
+
+The project currently focuses on **Arduino-based embedded systems, sensor integration, relay and actuator control, environmental monitoring, water management, irrigation, and real-time system control**.
+
+Our hardware and software architecture is designed to be **modular and expandable**, allowing new sensors, actuators, control modules, and automation capabilities to be continuously integrated as the project evolves.
+
+TerraSystems is actively developed, with new systems, modules, and experimental technologies being added over time. The current platform represents the foundation for a broader vision of accessible and intelligent agricultural automation.
+
+### 🔧 Current Systems
+
+The project currently includes systems and components such as:
+
+- Arduino-based embedded control
+- Environmental sensors
+- Temperature and humidity monitoring
+- Water level monitoring
+- Water flow monitoring
+- Relay-based control systems
+- Water pumps and fluid control
+- LCD-based system interface
+- LEDs and audible alerts
+- Modular program architecture
+- Real-time hardware control
+- Sensor-driven automation
+
+### 🚀 Future Development
+
+TerraSystems is continuously expanding toward more advanced agricultural technologies, including:
+
+- IoT and connected agricultural systems
+- Advanced environmental monitoring
+- Automated irrigation
+- Nutrient and water management
+- Robotics and autonomous systems
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Autonomous decision-making
+- Data-driven agriculture
+
+Our long-term vision is to combine **Embedded Systems, IoT, Robotics, Artificial Intelligence, and Autonomous Control Technologies** to create scalable solutions that improve agricultural efficiency, sustainability, and food production for future generations.
+
+---
 
 ## ⚠️ IMPORTANT — LICENSE & COMMERCIAL USE
 
@@ -42,13 +60,11 @@ through innovation in embedded engineering, AI-driven analytics, autonomous syst
 
 TerraSystems is distributed under the **TerraSystems Non-Commercial License**.
 
-</div>
-
 ---
 
 ## License Restrictions
 
-You may use, study, modify, and distribute this project for personal, educational, research, experimental, and other non-commercial purposes.
+You may use, study, modify, and distribute this project for **personal, educational, research, experimental, and other non-commercial purposes**.
 
 **COMMERCIAL USE IS STRICTLY PROHIBITED WITHOUT PRIOR WRITTEN PERMISSION.**
 
