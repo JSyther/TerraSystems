@@ -1,0 +1,58 @@
+# About Floria
+
+## An Adaptive Intelligence for Autonomous Agriculture
+
+Floria is the autonomous intelligence layer of the Flora agricultural automation platform.
+
+Floria is designed to observe the physical environment, understand changes in plant and system conditions, make controlled decisions, evaluate the results of those decisions, and continuously improve its future decisions based on real-world data.
+
+Floria is not designed as a conventional rule-based automation system where every possible condition must be manually programmed.
+
+Instead, the long-term goal is to create an adaptive control system that can learn how the physical environment responds to different actions and gradually improve its operation through continuous observation and feedback.
+
+---
+
+## Core Philosophy
+
+Floria follows a simple principle:
+
+> **Observe. Decide. Act. Measure. Learn. Repeat.**
+
+The system continuously creates a feedback loop between the physical environment and its decision-making layer.
+
+      ┌───────────────┐
+      │    SENSORS    │
+      └───────┬───────┘
+              ↓
+      ┌───────────────┐
+      │ SFloriaState  │
+      └───────┬───────┘
+              ↓
+         ┌────────┐
+         │ Floria │
+         └────┬───┘
+              ↓
+         DECISION
+              ↓
+             PUMP
+              ↓
+           REAL WORLD
+              ↓
+        WAIT / OBSERVE
+              ↓
+      ┌───────────────┐
+      │ NEW SENSORS   │
+      └───────┬───────┘
+              ↓
+         COMPARE
+              ↓
+      Was it better?
+         ↙       ↘
+       YES        NO
+        ↓          ↓
+   remember     adjust
+        └────┬─────┘
+             ↓
+          LEARN
+             ↓
+          REPEAT
