@@ -112,16 +112,6 @@ void AudioManager::PlayAudio(const char* Audio)
     Serial.println(Audio);
 }
 
-void AudioManager::PlayCriticalAudio()
-{
-    PlayAudio(AudioData::Critical);
-}
-
-void AudioManager::PlayTargetDetectedAudio()
-{
-    PlayAudio(AudioData::TargetDetected);
-}
-
 void AudioManager::StartWaterPump()
 {
     GBuzzer.Play(AudioData::NOTE_C4, 100);

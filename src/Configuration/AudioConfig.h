@@ -102,31 +102,5 @@ namespace AudioData
 
 namespace AudioData
 {
-    constexpr const char* Root = "Assets/Audio/";
-
-    constexpr const char* Startup      = "Assets/Audio/Startup.wav";
-    constexpr const char* Shutdown     = "Assets/Audio/Shutdown.wav";
-
-    constexpr const char* Beep         = "Assets/Audio/Beep.wav";
-    constexpr const char* Error        = "Assets/Audio/Error.wav";
-    constexpr const char* Warning      = "Assets/Audio/Warning.wav";
-    constexpr const char* Success      = "Assets/Audio/Success.wav";
-    constexpr const char* Critical     = "Assets/Audio/Critical.wav";
-
-    constexpr const char* Button1      = "Assets/Audio/Button1.wav";
-    constexpr const char* Button2      = "Assets/Audio/Button2.wav";
-    constexpr const char* Button3      = "Assets/Audio/Button3.wav";
-    constexpr const char* Button4      = "Assets/Audio/Button4.wav";
-    constexpr const char* Button5      = "Assets/Audio/Button5.wav";
-    constexpr const char* Button6      = "Assets/Audio/Button6.wav";
-
-    constexpr const char* Connected    = "Assets/Audio/Connected.wav";
-    constexpr const char* Disconnected = "Assets/Audio/Disconnected.wav";
-
-    constexpr const char* TargetDetected = "Assets/Audio/TargetDetected.wav";
-
-    constexpr const char* Infrared     = "Assets/Audio/Infrared.wav";
-    constexpr const char* Ultrasonic   = "Assets/Audio/Ultrasonic.wav";
-    constexpr const char* WaterPump    = "Assets/Audio/WaterPump.wav";
-    constexpr const char* DHT11        = "Assets/Audio/DHT11.wav";
+    // Reversed for future uses
 }

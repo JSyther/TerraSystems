@@ -23,8 +23,6 @@ public:
     void PlayTone(uint16_t Frequency, uint16_t Duration);
     void Stop();
     void PlayAudio(const char* Audio);
-    void PlayCriticalAudio();
-    void PlayTargetDetectedAudio();
 
     // WaterPump
     void StartWaterPump();
