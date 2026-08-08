@@ -1,8 +1,8 @@
 #include "AudioSensorProgram.h"
 #include "Configuration/AudioSensorConfig.h"
-#include "Audio/AudioManager.h"
 #include "Devices/Display/Display.h"
 #include "Devices/LED/LED.h"
+#include "Manager/Audio/AudioManager.h"
 
 AudioSensorProgram GAudioSensorProgram;
 

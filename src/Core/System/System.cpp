@@ -10,7 +10,7 @@
 #include "Sensors/Audio/AudioSensor.h"
 #include "Sensors/Motion/MotionSensor.h"
 
-#include "Core/ProgramManager/ProgramManager.h"
+#include "Manager/Program/ProgramManager.h"
 
 System GSystem;
 

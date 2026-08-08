@@ -4,7 +4,7 @@
 #include "Sensors/Infrared/InfraredReceiver.h"
 #include "Sensors/Infrared/InfraredTransmitter.h"
 #include "Devices/LED/LED.h"
-#include "Audio/AudioManager.h"
+#include "Manager/Audio/AudioManager.h"
 
 InfraredProgram GInfraredProgram;
 

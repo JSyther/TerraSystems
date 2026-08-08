@@ -1,9 +1,9 @@
 #include "UltrasonicProgram.h"
 
-#include "Sensors/Ultrasonic/UltrasonicSensor.h"
 #include "Devices/Display/Display.h"
-#include "Audio/AudioManager.h"
 #include "Devices/LED/LED.h"
+#include "Sensors/Ultrasonic/UltrasonicSensor.h"
+#include "Manager/Audio/AudioManager.h"
 
 UltrasonicProgram GUltrasonicProgram;
 

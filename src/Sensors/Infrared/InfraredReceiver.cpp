@@ -2,7 +2,7 @@
 #include "Configuration/PinConfig.h"
 
 #include "Devices/Display/Display.h"
-#include "Audio/AudioManager.h"
+#include "Manager/Audio/AudioManager.h"
 
 #define USE_IRREMOTE_HPP_AS_PLAIN_INCLUDE
 #include <IRremote.hpp>

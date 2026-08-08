@@ -1,9 +1,9 @@
 #include "MotionSensorProgram.h"
 
-#include "Audio/AudioManager.h"
 #include "Devices/Display/Display.h"
 #include "Devices/LED/LED.h"
 #include "Sensors/Motion/MotionSensor.h"
+#include "Manager/Audio/AudioManager.h"
 
 MotionSensorProgram GMotionSensorProgram;
 
