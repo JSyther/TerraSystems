@@ -1,0 +1,64 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/Mehmet/Desktop/Projects/TerraSystems/include",
+                "C:/Users/Mehmet/Desktop/Projects/TerraSystems/src",
+                "C:/Users/Mehmet/Desktop/Projects/TerraSystems/.pio/libdeps/uno/IRremote/src",
+                "C:/Users/Mehmet/Desktop/Projects/TerraSystems/.pio/libdeps/uno/DHT sensor library",
+                "C:/Users/Mehmet/Desktop/Projects/TerraSystems/.pio/libdeps/uno/Adafruit Unified Sensor",
+                "C:/Users/Mehmet/Desktop/Projects/TerraSystems/.pio/libdeps/uno/LiquidCrystal_I2C",
+                "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/Mehmet/Desktop/Projects/TerraSystems/include",
+                    "C:/Users/Mehmet/Desktop/Projects/TerraSystems/src",
+                    "C:/Users/Mehmet/Desktop/Projects/TerraSystems/.pio/libdeps/uno/IRremote/src",
+                    "C:/Users/Mehmet/Desktop/Projects/TerraSystems/.pio/libdeps/uno/DHT sensor library",
+                    "C:/Users/Mehmet/Desktop/Projects/TerraSystems/.pio/libdeps/uno/Adafruit Unified Sensor",
+                    "C:/Users/Mehmet/Desktop/Projects/TerraSystems/.pio/libdeps/uno/LiquidCrystal_I2C",
+                    "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/Mehmet/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60119",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "C:/Users/Mehmet/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
