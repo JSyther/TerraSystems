@@ -16,7 +16,7 @@ void Standby::Begin()
 {
     GLED.EnableRed();
 
-    GDisplay.Show("TerraSystems", "STANDBY");
+    GDisplay.Show("Terra Systems", "FLORA GEN V1.");
 
     LastUpdateTime = millis();
 
@@ -35,13 +35,13 @@ void Standby::Update()
 
         if (bFutureMessage)
         {
-            GDisplay.Show("TerraSystems", "STANDBY");
+            GDisplay.Show("Terra Systems", "FLORA GEN V1.");
 
             bFutureMessage = false;
         }
         else
         {
-            GDisplay.Show("For Future", "Generations");
+            GDisplay.Show("For Future", "Generations.");
 
             bFutureMessage = true;
         }
