@@ -1,0 +1,399 @@
+TerraSystems Non-Commercial License
+Version 1.0
+
+Copyright (c) 2026 TerraSystems
+Copyright (c) 2026 Reverse-A
+
+All rights reserved except as expressly granted below.
+
+
+1. PURPOSE
+
+The TerraSystems Non-Commercial License ("License") is intended to
+provide the TerraSystems software and source code to individuals,
+students, educators, researchers, hobbyists, and other users for
+personal, educational, experimental, and non-commercial purposes.
+
+The purpose of this License is to encourage learning, experimentation,
+research, collaboration, modification, and personal development while
+prohibiting unauthorized commercial exploitation of the Software.
+
+
+2. DEFINITIONS
+
+For the purposes of this License:
+
+"Software" means the TerraSystems source code, object code, scripts,
+configuration files, documentation, examples, assets, and other
+materials distributed as part of this repository, unless a particular
+file contains a separate license or notice.
+
+"Original Software" means the Software as originally distributed by
+TerraSystems and/or Reverse-A.
+
+"Modified Software" means the Software or any portion of it that has
+been modified, extended, adapted, translated, refactored, or otherwise
+changed by a user.
+
+"Derivative Work" means any work based upon, incorporating, or
+substantially derived from the Software or any portion thereof.
+
+"Commercial Use" means any use primarily intended for or directed
+toward commercial advantage, monetary compensation, financial gain,
+revenue generation, or business activity.
+
+Commercial Use includes, but is not limited to:
+
+- Selling the Software or Modified Software;
+- Selling products or services that substantially depend upon the
+  Software;
+- Including the Software in a commercial product;
+- Including the Software in paid applications, devices, systems,
+  platforms, or services;
+- Using the Software to provide a paid service;
+- Using the Software in a commercial business operation;
+- Monetizing the Software or a substantially derived work;
+- Licensing, sublicensing, renting, leasing, or otherwise providing
+  the Software for compensation;
+- Using the Software in a product or service that generates advertising
+  revenue or other direct monetary revenue;
+- Using the Software as part of a paid course, paid training product,
+  or commercial educational service where the Software itself forms
+  a material part of the commercial offering;
+- Using the Software to develop or operate a commercial product or
+  service for a third party.
+
+"Non-Commercial Use" means use that is not primarily intended for
+commercial advantage, monetary compensation, or financial gain.
+
+
+3. GRANT OF RIGHTS
+
+Subject to the terms and conditions of this License, permission is
+hereby granted, free of charge, to any person obtaining a copy of the
+Software to:
+
+- Use the Software for personal purposes;
+- Use the Software for educational purposes;
+- Use the Software for academic and research purposes;
+- Study and inspect the source code;
+- Copy the Software;
+- Modify the Software;
+- Create Modified Software;
+- Experiment with the Software;
+- Create private or public non-commercial projects based upon the
+  Software;
+- Share the Original Software with others for non-commercial purposes;
+- Share Modified Software with others for non-commercial purposes;
+- Publish modifications, improvements, tutorials, examples, and
+  educational material based upon the Software.
+
+These permissions are granted provided that all applicable conditions
+of this License are followed.
+
+
+4. NON-COMMERCIAL RESTRICTION
+
+The Software, Modified Software, and Derivative Works may NOT be used
+for Commercial Use without prior written permission from TerraSystems
+and/or Reverse-A.
+
+Without limiting the generality of the foregoing, you may not:
+
+- Sell the Software;
+- Sell Modified Software;
+- Sell source code derived from the Software;
+- Include the Software in a commercial product;
+- Include the Software in a paid application;
+- Use the Software in a commercial service;
+- Use the Software to generate revenue;
+- Use the Software as a component of a product intended for sale;
+- Offer the Software as part of a paid subscription;
+- Rent, lease, sublicense, or commercially distribute the Software;
+- Use the Software on behalf of a commercial customer for commercial
+  development or deployment;
+- Remove or bypass the non-commercial restrictions of this License.
+
+Commercial use is permitted only when explicit written authorization
+has been granted by TerraSystems and/or Reverse-A.
+
+
+5. PERSONAL USE
+
+Individuals may use the Software freely for personal projects,
+experimentation, learning, testing, prototyping, and hobby development.
+
+Personal projects may be shared publicly provided that such sharing
+does not constitute Commercial Use and the requirements of this
+License are preserved.
+
+
+6. EDUCATIONAL AND RESEARCH USE
+
+The Software may be freely used by students, teachers, educators,
+researchers, universities, schools, laboratories, and individuals
+for educational, academic, experimental, and research purposes,
+provided that such use is not primarily intended for commercial
+advantage or financial gain.
+
+The Software may be used in:
+
+- Student projects;
+- School projects;
+- University projects;
+- Academic research;
+- Personal laboratories;
+- Educational demonstrations;
+- Tutorials;
+- Programming exercises;
+- Hardware experiments;
+- Software experiments;
+- Non-commercial presentations;
+- Non-commercial publications.
+
+
+7. MODIFICATION
+
+You are permitted to modify, extend, improve, refactor, translate,
+rewrite, or otherwise alter the Software for permitted
+Non-Commercial Use.
+
+Modified Software must remain subject to this License unless
+otherwise authorized in writing by TerraSystems and/or Reverse-A.
+
+If you distribute Modified Software, you must clearly indicate that
+the Software has been modified.
+
+Example:
+
+"This project contains modifications based on TerraSystems."
+
+
+8. DISTRIBUTION
+
+You may distribute the Original Software or Modified Software for
+Non-Commercial purposes provided that:
+
+1. A copy of this License is included;
+2. The original copyright notices are preserved;
+3. The name "TerraSystems" is not removed from the applicable
+   copyright or attribution notices;
+4. You clearly identify substantial modifications;
+5. You do not represent the Modified Software as the original
+   TerraSystems Software;
+6. The distribution does not constitute Commercial Use.
+
+
+9. ATTRIBUTION
+
+Any redistribution of the Software or substantial portions of the
+Software must retain the following notices:
+
+Copyright (c) 2026 TerraSystems
+Copyright (c) 2026 Reverse-A
+
+TerraSystems Non-Commercial License
+
+When practical, attribution should also include a reference to the
+original TerraSystems project repository.
+
+
+10. PUBLICATION OF MODIFICATIONS
+
+You are encouraged, but not required, to publish improvements,
+bug fixes, educational material, documentation, and modifications
+created from the Software.
+
+Any publicly distributed modification must comply with the
+Non-Commercial restrictions of this License.
+
+Publication of modifications does not transfer ownership of the
+original Software to the modifier.
+
+
+11. COMMERCIAL LICENSE
+
+TerraSystems and/or Reverse-A may grant separate commercial licenses
+for the Software.
+
+A commercial license may permit activities otherwise prohibited by
+this License, including but not limited to:
+
+- Commercial distribution;
+- Commercial integration;
+- Commercial deployment;
+- Product development;
+- Sale of products containing the Software;
+- Paid services;
+- Commercial redistribution;
+- Sublicensing.
+
+Commercial permission must be granted in writing by an authorized
+representative of TerraSystems and/or Reverse-A.
+
+No commercial rights are granted merely by downloading, copying,
+viewing, modifying, or contributing to the Software.
+
+
+12. CONTRIBUTIONS
+
+If you submit code, documentation, improvements, bug fixes, or other
+material to the TerraSystems project, you represent that:
+
+- You have the legal right to submit the contribution;
+- The contribution does not knowingly violate the rights of another
+  party;
+- You understand that your contribution may be distributed as part
+  of the TerraSystems project;
+- Your contribution is provided under the licensing terms applicable
+  to the project unless otherwise agreed in writing.
+
+Contributors retain ownership of their original contributions unless
+they explicitly transfer those rights.
+
+
+13. THIRD-PARTY SOFTWARE
+
+The Software may contain, depend upon, link to, or interact with
+third-party libraries, frameworks, tools, firmware, drivers, assets,
+or other software.
+
+Third-party components are NOT automatically covered by this License.
+
+Each third-party component remains subject to its own applicable
+license.
+
+Nothing in this License grants permission to use third-party
+software beyond the rights granted by its respective license.
+
+Users are responsible for reviewing and complying with the licenses
+of all third-party dependencies.
+
+
+14. TRADEMARKS
+
+This License does not grant permission to use the names, logos,
+trademarks, service marks, or branding of TerraSystems or Reverse-A
+except where reasonably necessary to identify the origin of the
+Software.
+
+You may state that your project is "based on TerraSystems" provided
+that such statement is truthful and does not imply endorsement,
+sponsorship, partnership, or official affiliation.
+
+You may not represent Modified Software as an official TerraSystems
+product without prior written permission.
+
+
+15. OWNERSHIP
+
+The Software is licensed, not sold.
+
+All copyrights and other intellectual property rights in the
+Original Software remain with TerraSystems, Reverse-A, and/or their
+respective copyright holders.
+
+This License does not transfer ownership of the Software or any
+intellectual property rights to the user.
+
+
+16. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR AVAILABILITY.
+
+THE AUTHORS AND COPYRIGHT HOLDERS DO NOT WARRANT THAT THE SOFTWARE
+WILL FUNCTION WITHOUT INTERRUPTION, BE ERROR-FREE, SECURE, OR
+SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+
+17. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, TERRASYSTEMS,
+REVERSE-A, THE AUTHORS, CONTRIBUTORS, AND COPYRIGHT HOLDERS SHALL
+NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING FROM OR RELATED
+TO THE USE OF, INABILITY TO USE, MODIFICATION OF, DISTRIBUTION OF,
+OR RELIANCE UPON THE SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, LOSS OF DATA, LOSS OF PROFITS,
+LOSS OF REVENUE, BUSINESS INTERRUPTION, HARDWARE DAMAGE, SOFTWARE
+DAMAGE, OR OTHER COMMERCIAL OR NON-COMMERCIAL LOSS.
+
+
+18. TERMINATION
+
+The rights granted under this License automatically terminate if
+you violate any material term of this License.
+
+Upon termination, you must cease the use and distribution of the
+Software and Modified Software, except where applicable law provides
+otherwise.
+
+Termination does not affect rights that were lawfully granted to
+other users who are not in violation of this License.
+
+
+19. NO ENDORSEMENT
+
+Use of the Software does not imply endorsement, sponsorship, approval,
+or affiliation with TerraSystems or Reverse-A.
+
+You may not claim or imply that TerraSystems, Reverse-A, or the
+original authors endorse your project without explicit written
+permission.
+
+
+20. SEVERABILITY
+
+If any provision of this License is determined to be invalid,
+illegal, or unenforceable under applicable law, the remaining
+provisions shall remain in full force and effect.
+
+The invalid or unenforceable provision shall be interpreted or
+modified to the minimum extent necessary to make it enforceable
+while preserving its original intent as closely as possible.
+
+
+21. NO ADDITIONAL RESTRICTIONS
+
+You may not impose additional restrictions that prevent other
+authorized users from exercising the rights expressly granted by
+this License for Non-Commercial purposes.
+
+
+22. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this License are reserved by
+TerraSystems, Reverse-A, and/or the applicable copyright holders.
+
+No permission is granted by implication, estoppel, or otherwise
+except as expressly stated in this License.
+
+
+23. GOVERNING PRINCIPLE
+
+This License is intended to permit broad access to the Software for
+learning, education, research, experimentation, personal projects,
+and non-commercial development while preserving the copyright
+holders' right to control commercial exploitation.
+
+If you wish to use the Software for any purpose that may reasonably
+be considered Commercial Use, you must obtain prior written
+permission before doing so.
+
+
+24. CONTACT
+
+For commercial licensing, permissions, or other licensing inquiries,
+please contact the TerraSystems / Reverse-A project maintainers
+through the official project repository or the contact information
+provided by the copyright holders.
+
+
+Copyright (c) 2026 TerraSystems
+Copyright (c) 2026 Reverse-A
+
+All rights reserved except as expressly granted by this License.
